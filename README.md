@@ -47,7 +47,7 @@
 
 - **Email**: [sumankumar@gmail.com](mailto:sumankumarchand55@gmail.com)
 - **LinkedIn**: [Suman Kumar Chand](https://www.linkedin.com/in/sumankchand)
-- **GitHub**: [hrypter/suman](https://github.com/sumankumarchand55)
+- **GitHub**: [sumankumarchand55](https://github.com/sumankumarchand55)
 
 ---
 
