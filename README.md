@@ -1,10 +1,11 @@
 # Hi 👋, I'm Suman Kumar Chand 
+
+**A Passionate Programmer**  
+
+**From Odisha, Khordha, pin-752062**
+
 <img src="https://github.com/user-attachments/assets/8dbd62dc-b011-49d5-8b8d-20c98948b33d" alt="giphy-image" height="150" width="130"/>
 <img src="https://github.com/user-attachments/assets/f3b22862-2260-4d2f-ac58-9f54c8040820" alt="giphy-image" height="150" align="right"/>
-
-A Passionate Programmer  
-From Odisha, Khordha, pin-752062
-
 
 ---
 
@@ -59,12 +60,12 @@ From Odisha, Khordha, pin-752062
 4. **Spring Framework**: Spring Core,Spring MVC
 5. **Spring Security**: Authentication and Authorization
 6. **Spring Boot**: Building REST APIs, CRUD Applications
-7. 
 ---
 
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumankchand)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumankumarchand55)
-![Profile Views](https://your-api-endpoint.com/profile-views)
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-123-brightgreen)
 
