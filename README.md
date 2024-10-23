@@ -9,8 +9,8 @@
 
 ---
 
-## 👨‍💻 Projects Completed
 
+## 👨‍💻 Projects Completed
 - **ContactManager** - Spring Boot, Thymeleaf  
 - **Student_DBproject** - Spring Boot, Thymeleaf
 - **SGM_Enterprise** - Spring Boot, Thymeleaf  
