@@ -51,7 +51,7 @@
 
 ---
 
-## 🌱 My Java Learning Journey
+## 🌱 My Java Learning
 
 1. **Core Java**: OOP, Arrays, String, Collections, Exception Handling,
 2. **Advanced Java**: JDBC, Servlet, JSP,
