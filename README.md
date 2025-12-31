@@ -3,7 +3,8 @@
 <h3> A Passionate Programmer </h3>
 <h3> From Odisha, Khordha, pin-752062 </h3>
 
-<img src="https://github.com/user-attachments/assets/8dbd62dc-b011-49d5-8b8d-20c98948b33d" alt="giphy-image" height="150" width="130"/>
+<!-- <img src="https://github.com/user-attachments/assets/8dbd62dc-b011-49d5-8b8d-20c98948b33d" alt="giphy-image" height="150" width="130"/> -->
+<img src="https://github.com/user-attachments/assets/ea89ef05-3ac7-4f61-a26d-ad934b31d214" alt="giphy-image" height="150" width="130"/>
 <img src="https://github.com/user-attachments/assets/f3b22862-2260-4d2f-ac58-9f54c8040820" alt="giphy-image" height="100" width="130" align="right"/>
 
 ---
